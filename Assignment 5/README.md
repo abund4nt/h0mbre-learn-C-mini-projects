@@ -1,3 +1,5 @@
+# brief explanation
+
 A `convert()` function is created in order to perform the necessary calculations, four `int` type variables are defined, one called `seconds`, which will be the seconds entered by the user, and the other 3 `h` `m` `s`, which will be pointers. The calculations performed in the function are as follows.
 
 - To calculate the hour divide the seconds by 3600.
